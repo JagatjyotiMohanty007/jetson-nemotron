@@ -100,7 +100,7 @@ git init -b main
 git add README.md .gitignore app
 git diff --cached --stat
 git commit -m "Add Jetson Nemotron setup and Python demo"
-git remote add origin https://github.com/YOUR_USERNAME/jetson-nemotron.git
+git remote add origin https://github.com/JagatjyotiMohanty007/jetson-nemotron.git
 git push -u origin main
 ```
 
