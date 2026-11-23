@@ -1,0 +1,6 @@
+/llama.cpp/
+/models/
+*.gguf
+__pycache__/
+.venv/
+.env
